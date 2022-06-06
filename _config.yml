@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. You Peng"
-  avatar           : "profile.jpeg"
+  avatar           : "youpeng_blank.jpeg"#"profile.jpeg"
   bio              : "Postdoc Researcher, The Chinese University of Hong Kong."
   location         : "Hong Kong, China"
   employer         :
