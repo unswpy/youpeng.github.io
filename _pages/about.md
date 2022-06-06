@@ -69,4 +69,4 @@ Honors and Awards
 ======
 - CIKM2021 Best Demo Nomination.
 - Dean’s Award for Outstanding Ph.D. Theses @ UNSW
-- Scholarship of Academic Excellence (6/57), Tsinghua University
+- Scholarship of Academic Excellence, Tsinghua University
