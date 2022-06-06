@@ -49,7 +49,6 @@ Academic Services
 Talks
 ======
 - Finding Top-r Influential Communities under Aggregation Functions, ICDE 2022, Kuala Lumpur, Malaysia, May 11, 2022. (Virtual conference)
-- Path-Based Fraud Detection, Algorithms, Systems and Impacts, Shanghai Jiaotong University, Feb 21, 2022.
 - Towards Bridging Theory and Practice: Hop-constrained s-t Simple Path Enumeration, Peking University, May 22, 2021.
 - Answering Billion-Scale Label-Constrained Reachability Queries within Microsecond, VLDB 2020, Tokyo, Japan, Aug 31, 2020. (Virtual conference)
 - Hop-constrained s-t Simple Path Enumeration: Towards Bridging Theory and Practice, VLDB 2020, Tokyo, Japan, Aug 31, 2020. (Virtual conference)
