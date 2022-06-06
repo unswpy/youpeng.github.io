@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Dr. You Peng"
-  avatar           : "youpeng_blank.jpeg"#"profile.jpeg"
+  avatar           : "profile.jpeg"#"youpeng_blank.jpeg"#"profile.jpeg"
   bio              : "Postdoc Researcher, The Chinese University of Hong Kong."
   location         : "Hong Kong, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.ar/citations?user=o4ll3LMAAAAJ&hl=zh-CN&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
