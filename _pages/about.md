@@ -15,7 +15,7 @@ My research interests mainly focus on the areas of path-based analysis, fraud de
 Publications
 ======
 (#indicate the corresponding author.)
-1. **You Peng#**, Xuemin Lin, Michael Yu, Wenjie Zhang, Lu Qin. “TDB: Breaking All Hop-Constrained Cycles in
+1. **You Peng**, Xuemin Lin, Michael Yu, Wenjie Zhang, Lu Qin. “TDB: Breaking All Hop-Constrained Cycles in
 Billion-Scale Directed Graphs”, to appear in IEEE International Conference on Data Engineering (**ICDE**), 2023.
 2. **You Peng**, Song Bian, Rui Li, Sibo Wang, Jeffrey Xu Yu. “Finding Top-r Influential Communities under Aggregation Functions”, IEEE International Conference on Data Engineering (**ICDE**), 1942-1955, 2022.
 3. Zhirong Yuan, **You Peng#**, Peng Cheng, Li Han, Xuemin Lin, Lei Chen, Wenjie Zhang. “Efficient k-clique Listing with Set Intersection Speedup”, IEEE International Conference on Data Engineering (**ICDE**), 1956-1969, 2022.
