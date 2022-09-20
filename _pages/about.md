@@ -15,20 +15,22 @@ My research interests mainly focus on the areas of path-based analysis, fraud de
 Publications
 ======
 (#indicate the corresponding author.)
-1. **You Peng**, Song Bian, Rui Li, Sibo Wang, Jeffrey Xu Yu. “Finding Top-r Influential Communities under Aggregation Functions”, IEEE International Conference on Data Engineering (**ICDE**), 1942-1955, 2022.
-2. Zhirong Yuan, **You Peng#**, Peng Cheng, Li Han, Xuemin Lin, Lei Chen, Wenjie Zhang. “Efficient k-clique Listing with Set Intersection Speedup”, IEEE International Conference on Data Engineering (**ICDE**), 1956-1969, 2022.
-3. Xin Chen, **You Peng#**, Sibo Wang, Jeffrey Xu Yu. “DLCR : Efficient Indexing for Label-Constrained Reachability Queries on Large Dynamic Graphs”, Proceedings of the VLDB Endowment (**PVLDB**), 2022.
-4. Qingshuai Feng*, **You Peng#**, Wenjie Zhang, Ying Zhang, Xuemin Lin. “Towards Real-Time Counting Shortest Cycles on Dynamic Graphs: A Hub Labeling Approach”, IEEE International Conference on Data Engineering (**ICDE**), 512-524, 2022.
-5. **You Peng**, Xuemin Lin, Ying Zhang, Wenjie Zhang, Lu Qin. “Answering reachability and K-reach queries on large graphs with label constraints”, The VLDB Journal (**VLDBJ**), 31(1): 101-127, 2022
-6. **You Peng**, Wenjie Zhao, Wenjie Zhang, Xuemin Lin, Ying Zhang. “Dlq: A system for label-constrained reachability queries on dynamic graphs”, demo of ACM International Conference on Information and Knowledge Management (**CIKM**), 4764-4768, 2021. (**Best Demo Nomination**)
-7. Xin Jin, Zhengyi Yang, Xuemin Lin, Shiyu Yang, Lu Qin, **You Peng**. “FAST: FPGA-based Subgraph Matching on Massive Graphs”, IEEE International Conference on Data Engineering (**ICDE**), 1452-1463, 2021.
-8. Zhengmin Lai, **You Peng**, Shiyu Yang, Xuemin Lin, Wenjie Zhang. “PEFP: Efficient k-hop Constrained s-t Simple Path Enumeration on FPGA”, IEEE International Conference on Data Engineering (**ICDE**), 1320- 1331, 2021.
-9. **You Peng**, Ying Zhang, Xuemin Lin, Wenjie Zhang, Lu Qin, Jingren Zhou. “Efficient Hop-constrained s-t Simple Path Enumeration”, The VLDB Journal (**VLDBJ**), 30(5): 799-823, 2021.
-10. **You Peng**, Ying Zhang, Xuemin Lin, Lu Qin, Wenjie Zhang. “Answering Billion-Scale Label-Constrained Reachability Queries within Microsecond”. Proceedings of the VLDB Endowment (**PVLDB**), 13(6): 812- 825, 2020.
-11. Lu Qin, Wenjie Zhang, Ying Zhang, **You Peng**, Hiroyuki Kato, Wei Wang, Chuan Xiao. Foundations for Data Interoperability and Large Scale Graph Data Analytics”. 4th International Workshop, SFDI 2020, and 2nd International Workshop, LSGDA 2020, Held in Conjunction with VLDB 2020, Tokyo, Japan, September 4, 2020, Proceedings[M]. Springer Nature, 2020.
-12. **You Peng**, Ying Zhang, Xuemin Lin, Wenjie Zhang, Lu Qin, Jingren Zhou. “Hop-constrained s-t Simple Path Enumeration: Towards Bridging Theory and Practice”, Proceedings of the VLDB Endowment (**PVLDB**), 13(4): 463-476, 2019.
-13. **You Peng**, Ying Zhang, Wenjie Zhang, Xuemin Lin, Lu Qin. “Efficient Probabilistic K core Computation on Uncertain Graphs”, IEEE International Conference on Data Engineering (**ICDE**), 1192-1203, 2018.
-14. Xiafei Qiu, Wubin Cen, Zhengping Qian, **You Peng**, Ying Zhang, Xuemin Lin, Jingren Zhou. “Real-time Constrained Cycle Detection in Large Dynamic Graphs. Proceedings of the VLDB Endowment (**PVLDB**), 11(12): 1876-1888, 2018.
+1. **You Peng#**, Xuemin Lin, Michael Yu, Wenjie Zhang, Lu Qin. “TDB: Breaking All Hop-Constrained Cycles in
+Billion-Scale Directed Graphs”, to appear in IEEE International Conference on Data Engineering (**ICDE**), 2023.
+2. **You Peng**, Song Bian, Rui Li, Sibo Wang, Jeffrey Xu Yu. “Finding Top-r Influential Communities under Aggregation Functions”, IEEE International Conference on Data Engineering (**ICDE**), 1942-1955, 2022.
+3. Zhirong Yuan, **You Peng#**, Peng Cheng, Li Han, Xuemin Lin, Lei Chen, Wenjie Zhang. “Efficient k-clique Listing with Set Intersection Speedup”, IEEE International Conference on Data Engineering (**ICDE**), 1956-1969, 2022.
+4. Xin Chen, **You Peng#**, Sibo Wang, Jeffrey Xu Yu. “DLCR : Efficient Indexing for Label-Constrained Reachability Queries on Large Dynamic Graphs”, Proceedings of the VLDB Endowment (**PVLDB**), 2022.
+5. Qingshuai Feng*, **You Peng#**, Wenjie Zhang, Ying Zhang, Xuemin Lin. “Towards Real-Time Counting Shortest Cycles on Dynamic Graphs: A Hub Labeling Approach”, IEEE International Conference on Data Engineering (**ICDE**), 512-524, 2022.
+6. **You Peng**, Xuemin Lin, Ying Zhang, Wenjie Zhang, Lu Qin. “Answering reachability and K-reach queries on large graphs with label constraints”, The VLDB Journal (**VLDBJ**), 31(1): 101-127, 2022
+7. **You Peng**, Wenjie Zhao, Wenjie Zhang, Xuemin Lin, Ying Zhang. “Dlq: A system for label-constrained reachability queries on dynamic graphs”, demo of ACM International Conference on Information and Knowledge Management (**CIKM**), 4764-4768, 2021. (**Best Demo Nomination**)
+8. Xin Jin, Zhengyi Yang, Xuemin Lin, Shiyu Yang, Lu Qin, **You Peng**. “FAST: FPGA-based Subgraph Matching on Massive Graphs”, IEEE International Conference on Data Engineering (**ICDE**), 1452-1463, 2021.
+9. Zhengmin Lai, **You Peng**, Shiyu Yang, Xuemin Lin, Wenjie Zhang. “PEFP: Efficient k-hop Constrained s-t Simple Path Enumeration on FPGA”, IEEE International Conference on Data Engineering (**ICDE**), 1320- 1331, 2021.
+10. **You Peng**, Ying Zhang, Xuemin Lin, Wenjie Zhang, Lu Qin, Jingren Zhou. “Efficient Hop-constrained s-t Simple Path Enumeration”, The VLDB Journal (**VLDBJ**), 30(5): 799-823, 2021.
+11. **You Peng**, Ying Zhang, Xuemin Lin, Lu Qin, Wenjie Zhang. “Answering Billion-Scale Label-Constrained Reachability Queries within Microsecond”. Proceedings of the VLDB Endowment (**PVLDB**), 13(6): 812- 825, 2020.
+12. Lu Qin, Wenjie Zhang, Ying Zhang, **You Peng**, Hiroyuki Kato, Wei Wang, Chuan Xiao. Foundations for Data Interoperability and Large Scale Graph Data Analytics”. 4th International Workshop, SFDI 2020, and 2nd International Workshop, LSGDA 2020, Held in Conjunction with VLDB 2020, Tokyo, Japan, September 4, 2020, Proceedings[M]. Springer Nature, 2020.
+13. **You Peng**, Ying Zhang, Xuemin Lin, Wenjie Zhang, Lu Qin, Jingren Zhou. “Hop-constrained s-t Simple Path Enumeration: Towards Bridging Theory and Practice”, Proceedings of the VLDB Endowment (**PVLDB**), 13(4): 463-476, 2019.
+14. **You Peng**, Ying Zhang, Wenjie Zhang, Xuemin Lin, Lu Qin. “Efficient Probabilistic K core Computation on Uncertain Graphs”, IEEE International Conference on Data Engineering (**ICDE**), 1192-1203, 2018.
+15. Xiafei Qiu, Wubin Cen, Zhengping Qian, **You Peng**, Ying Zhang, Xuemin Lin, Jingren Zhou. “Real-time Constrained Cycle Detection in Large Dynamic Graphs. Proceedings of the VLDB Endowment (**PVLDB**), 11(12): 1876-1888, 2018.
 
 
 
