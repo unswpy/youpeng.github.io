@@ -41,6 +41,7 @@ Academic Services
   - Publication Chair and Volume Editor of International Workshop on Large Scale Graph Data Analytics [LSGDA](https://lsgda.github.io/2020/) In conjunction with the PVLDB 2020
 - Program Committee: 
   - International Conference on Very Large Data Bases [PVLDB](https://vldb.org/2023/): 2023
+  - International Conference on Database Systems for Advanced Applications [DASFAA](http://www.tjudb.cn/dasfaa2023/): 2023
 - Invited Journal Reviewer:
   - VLDBJ
   - TKDE
