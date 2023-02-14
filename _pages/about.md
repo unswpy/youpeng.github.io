@@ -43,7 +43,7 @@ Academic Services
 - Program Committee: 
   - International Conference on Very Large Data Bases [PVLDB](https://vldb.org/2023/): 2023
   - International Conference on Database Systems for Advanced Applications [DASFAA](http://www.tjudb.cn/dasfaa2023/): 2023
-- Invited Journal Reviewer:
+- Journal Reviewer:
   - VLDBJ
   - TKDE
   - TKDD
